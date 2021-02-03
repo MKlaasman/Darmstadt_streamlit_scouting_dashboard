@@ -1,0 +1,25 @@
+
+
+# streamlit_app.py: 10
+Pillow == 7.2.0
+
+# streamlit_app.py: 1,12
+matplotlib == 3.2.2
+
+# streamlit_app.py: 2
+numpy == 1.18.5
+
+# streamlit_app.py: 3
+pandas == 1.0.5
+
+# streamlit_app.py: 4
+plotly == 4.9.0
+
+# streamlit_app.py: 6
+requests == 2.24.0
+
+# streamlit_app.py: 8
+seaborn == 0.10.1
+
+# streamlit_app.py: 9
+streamlit == 0.68.0
